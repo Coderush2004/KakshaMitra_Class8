@@ -82,7 +82,7 @@ Kaksha-Mitra/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/kaksha-mitra.git
+git clone https://github.com/Coderush2004/kaksha-mitra.git
 ```
 
 ### Navigate to the Project
@@ -165,6 +165,6 @@ Feel free to use and modify it for learning or academic projects.
 
 ### ⭐ If you found this project useful, consider giving it a Star!
 
-**Made with ❤️ for Students**
+**Made for Students**
 
 </div>
